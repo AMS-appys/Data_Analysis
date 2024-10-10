@@ -9,6 +9,9 @@ After conducting an in-depth data analysis, I created a comprehensive dashboard 
 - Sales by channels: Amazon (36%) taking the lead 🛒
 - Order status: 92% Delivered successfully ✅
 
+#Conclusion
+- Target women customers of age group (30-49 yrs) living in Maharashtra, Karnataka and Uttar Pradesh by showing ads/offers/coupons available on Amazon, Flipkart and Myntra
+
 🤖The analysis also breaks down sales across age groups and categories, helping to optimize for various customer demographics. 
 
 🤟This dashboard is not just a representation of numbers, but a tool for making impactful business decisions. 🎯
