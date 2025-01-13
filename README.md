@@ -14,3 +14,8 @@
     - **Technologies Used:** The notebooks uses Descision Tree Classifier
     - **Results:** The Decision Tree Classifer performed well on the test dataset with an accuracy of 89.5%
 04. [Consumer Goods Ad-Hoc Request Analysis](https://github.com/AMS-appys/Data_Analysis/tree/main/SQL/Consumer-Goods) **[SQL | Power BI]**
+
+05. [Heart Stroke Prediction](https://github.com/AMS-appys/Data_Analysis/tree/main/Heart%20Stroke%20Prediction)
+   -  **Description:** The project predicts the risk of heart stroke on studying the person's demographics and medical info
+   - **Technologies Used:** The notebooks uses logistic regression, support vector machine, decision tree and knn
+   - **Results:** The logistic regression, SVM and KNN performs the best with 93.8 % accuracy
